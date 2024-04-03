@@ -1,0 +1,102 @@
+"gender 0=female,1=male",Age,course,Your current year of Study,What is your Family income?,Major Incidence,Depression score,Anxiety Score,ADHD score,doctor required
+0,18,Engineering,year 1,15,0,21,4,18,0
+1,21,Islamic education,year 2,14,0,5,16,2,0
+1,19,BIT,Year 1,13,0,19,15,19,1
+0,22,Laws,year 3,13.8,1,18,3,4,0
+1,23,Mathemathics,year 4,12.4,0,4,5,3,0
+1,19,Engineering,Year 2,15,0,3,2,21,0
+0,23,Pendidikan islam,year 2,15,1,27,13,23,1
+0,18,BCS,year 1,15,0,8,18,5,0
+0,19,Human Resources,Year 2,11,0,9,1,6,0
+1,18,Irkhs,year 1,15,0,1,17,20,0
+0,20,Psychology,year 1,15,0,2,0,7,0
+0,24,Engineering,Year 3,15,1,22,6,8,0
+0,18,BCS,year 1,15,0,20,7,9,0
+1,19,Engineering,year 1,15,0,6,8,10,0
+0,18,KENMS,Year 2,15,0,7,17,11,0
+1,24,BCS,Year 3,15,0,10,8,12,0
+0,24,Accounting ,year 3,13,0,1,9,13,0
+0,24,ENM,year 4,13,1,20,14,19,1
+0,20,BIT,Year 2,13,0,0,18,8,0
+0,18,Marine science,year 2,13,1,19,19,17,1
+0,19,Engineering,year 1,13,0,4,11,18,0
+0,18,KOE,Year 2,14,0,3,12,14,0
+0,24,BCS,year 1,13,0,2,10,15,0
+0,24,Engineering,year 1,17,0,5,13,16,0
+0,23,BCS,Year 3,13,0,21,15,18,1
+0,18,Banking Studies,year 1,13,0,6,3,0,0
+0,19,Engineering,year 1,13,0,7,2,1,0
+1,18,Engineering,Year 2,13,1,22,17,2,0
+0,24,BIT,Year 3,13,1,26,21,22,1
+0,24,BCS,year 4,13,0,8,6,2,0
+0,23,Business Administration,Year 2,15,0,9,5,3,0
+1,18,BCS,year 2,20,0,10,4,4,0
+1,19,BCS,year 1,13,0,11,7,18,0
+1,18,BCS,Year 2,13,1,27,20,13,1
+0,19,BIT,year 1,13,0,20,14,17,1
+0,18,Engineering,year 1,13,0,12,0,4,0
+0,18,Law,Year 3,13,0,22,15,5,0
+0,19,BIT,year 1,13,0,23,14,6,0
+0,18,KIRKHS,year 1,13,0,1,9,7,0
+0,24,Engineering,Year 2,13,1,24,8,18,1
+0,24,BIT,Year 3,13,0,2,19,3,0
+0,22,Engineering,year 4,13,0,3,8,2,0
+0,20,Usuluddin ,year 2,13,0,22,7,7,0
+1,20,BIT,year 1,8,0,0,6,9,0
+1,23,TAASL,year 2,15,0,1,5,19,0
+1,18,BCS,year 1,15,0,2,19,4,0
+0,19,Engineering,year 1,15,0,3,7,7,0
+0,18,Engine,year 4,15,0,4,8,8,0
+1,24,BCS,year 2,13,0,23,5,4,0
+0,24,BCS,year 3,15,0,5,3,13,0
+0,23,ALA,year 1,11,1,25,2,16,1
+0,18,BCS,year 2,15,0,3,18,17,0
+0,19,Biomedical science,year 3,13,0,15,4,11,0
+0,20,koe,year 3,13,1,19,12,10,1
+0,19,BCS,year 1,15,0,27,11,19,1
+1,21,BCS,year 1,15,0,13,9,0,0
+1,23,Kirkhs,Year 3,15,0,12,8,3,0
+0,20,BENL,Year 3,15,0,24,15,4,0
+0,18,BCS,year 1,15,0,12,7,2,0
+0,23,Benl,year 1,13,0,11,6,1,0
+0,18,IT,Year 3,13,0,10,5,18,0
+0,19,BCS,year 1,15,0,9,4,3,0
+0,18,CTS,Year 1,15,0,8,3,19,0
+0,24,engin,year 1,15,0,7,2,20,0
+0,24,Engine,year 1,15,0,6,1,6,0
+0,23,Econs,year 1,15,0,23,18,7,0
+0,18,KOE,Year 3,13,0,0,20,8,0
+1,19,MHSC,Year 3,13,1,22,3,14,0
+0,18,Malcom,year 1,15,0,21,2,3,0
+0,24,Kop,year 4,13,0,5,19,4,0
+0,24,Biomedical science,year 1,13,0,4,8,5,0
+0,18,Laws,Year 3,15,0,3,6,6,0
+0,19,BIT,Year 3,13,1,23,7,11,0
+1,18,Biomedical science,year 1,8,0,2,3,2,0
+1,24,BIT,Year 3,15,0,1,2,15,0
+0,24,KOE,year 1,15,0,0,18,16,0
+0,23,Engineering,year 1,13,0,20,3,3,0
+0,18,Human Sciences ,Year 2,13,0,14,5,14,0
+0,19,Biotech0logy,Year 3,8,0,1,1,2,0
+0,18,Engineering,year 4,15,0,13,7,4,0
+0,24,Communication ,Year 2,15,1,17,12,23,1
+0,24,Diploma Nursing,year 2,15,0,15,7,2,0
+0,19,Engineering,year 1,13,0,18,15,4,0
+0,19,Pendidikan Islam ,Year 2,13,0,12,3,6,0
+1,23,Radiography,year 1,13,0,14,2,7,0
+0,18,psychology,year 1,15,0,24,21,11,1
+0,19,Fiqh fatwa ,Year 3,15,0,18,2,13,0
+0,18,psychology,year 1,15,0,20,11,19,1
+1,24,BIT,year 1,13,0,10,15,2,0
+1,24,Engineering,Year 2,9,0,11,10,3,0
+0,23,DIPLOMA TESL,Year 3,15,0,9,6,16,0
+1,18,Koe,Year 2,13,0,8,18,12,0
+0,19,KOE,year 2,13,1,20,5,3,0
+0,18,BENL,year 1,13,0,20,6,4,0
+0,24,Fiqh,Year 3,10,0,14,3,19,0
+0,18,Islamic Education,year 1,11,0,11,2,2,0
+0,21,BCS,year 1,12,0,10,4,3,0
+1,18,Engineering,Year 2,13,0,21,5,1,0
+0,19,Nursing ,Year 3,13,1,22,2,7,0
+0,23,Pendidikan Islam,year 4,7.5,0,0,5,3,0
+1,20,Biomedical science,Year 2,12,0,16,2,4,0
